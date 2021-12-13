@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
+  "name": "uranium",
   "version": "1.8.0",
-  "productName": "Helios Launcher",
+  "productName": "Uranium Launcher",
   "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/) et Dark Sun",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/DarkSun133/Uranium-PVP-Faction",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/DarkSun133/Uranium-PVP-Faction/issues"
   },
   "private": true,
   "main": "index.js",
@@ -47,6 +47,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/DarkSun133/Uranium-PVP-Faction.git"
   }
 }
